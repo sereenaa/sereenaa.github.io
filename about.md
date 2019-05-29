@@ -9,8 +9,14 @@ I am a final year student at the University of New South Wales, studying a bache
 ## Hobbies 
 - Oztag 
 - Raves 
-- 
+- Shopping 
+
 
 ## Skills 
+- R 
+- Python 
+- C 
+- SQL 
+- SAS 
 
 
