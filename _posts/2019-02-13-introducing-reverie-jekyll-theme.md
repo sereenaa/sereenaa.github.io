@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I'm just playing around with my website, there's nothing much here 
-categories: [Miscellaneous, Jekyll]
+# categories: [Miscellaneous, Jekyll]
 ---
 
 
