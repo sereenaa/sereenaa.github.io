@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: CV
+permalink: /cv/
 
 ---
 
@@ -19,5 +19,3 @@ I am a final year student at the University of New South Wales, studying a bache
 - C 
 - SQL 
 - SAS 
-
-
