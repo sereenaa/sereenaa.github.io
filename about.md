@@ -5,19 +5,10 @@ permalink: /about/
 
 ---
 
-I am a final year student at the University of New South Wales, studying a bachelor of Data Science and Decisions. 
+I am a final year student at the University of New South Wales, studying a bachelor of Data Science and Decisions. Currently a data science intern at TAL Australia, I will soon be moving into a graduate program at IAG. 
 
-## Hobbies 
-- Oztag 
-- Raves 
-- Shopping 
+## My Website 
 
-
-## Skills 
-- R 
-- Python 
-- C 
-- SQL 
-- SAS 
+Navigate to my home page, and you will see a variety of blog-style posts. I'll be posting my random data science and tech projects. Come back soon to check out the updates! 
 
 
