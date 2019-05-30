@@ -2,6 +2,7 @@
 layout: post
 title: I'm just playing around with my website, there's nothing much here 
 categories: [Miscellaneous, Videos]
+avatar: images/404.jpg
 ---
 
 
