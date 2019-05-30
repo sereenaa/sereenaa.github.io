@@ -11,4 +11,3 @@ I am a final year student at the University of New South Wales, studying a bache
 
 Navigate to my home page, and you will see a variety of blog-style posts. I'll be posting my random data science and tech projects. Come back soon to check out the updates! 
 
-[<img src="{{ site.baseurl }}/images/404.jpg" alt="Constructocat by https://github.com/jasoncostello" style="width: 50px;"/>]({{ site.baseurl }}/)
