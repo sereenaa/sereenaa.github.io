@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
-avatar: [](/images/404.jpg)
+avatar: [![Alt text](/images/404.jpg)](http://sereenaa.github.io)
 ---
 
 I am a final year student at the University of New South Wales, studying a bachelor of Data Science and Decisions. Currently a data science intern at TAL Australia, I will soon be moving into a graduate program at IAG. 
