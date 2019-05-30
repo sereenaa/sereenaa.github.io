@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about/
+
 ---
 <a href="{{ site.baseurl }}/" class="site-avatar"><img src="/images/404.jpg" /></a>
 
