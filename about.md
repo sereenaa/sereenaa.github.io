@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
-[](/images/nice.jpg)
+permalink: /about/s
 
 ---
 
