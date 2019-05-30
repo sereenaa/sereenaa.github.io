@@ -2,8 +2,8 @@
 layout: page
 title: About Me
 permalink: /about/
-
 ---
+<a href="{{ site.baseurl }}/" class="site-avatar"><img src="/images/404.jpg" /></a>
 
 I am a final year student at the University of New South Wales, studying a bachelor of Data Science and Decisions. Currently a data science intern at TAL Australia, I will soon be moving into a graduate program at IAG. 
 
