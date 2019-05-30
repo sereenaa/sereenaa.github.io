@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
-logo: images/nice.jpg
+[](/images/nice.jpg)
 
 ---
 
