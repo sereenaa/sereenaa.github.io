@@ -5,7 +5,7 @@ permalink: /about/
 site-avatar: /images/404.jpg
 ---
 
-I am a Data Graduate at IAG, with a bachelor of Data Science and Decisions at the University of New South Wales. 
+I am a Data Graduate at IAG, with a bachelor of Data Science and Decisions at the University of New South Wales.  
 
 ## My Website 
 
