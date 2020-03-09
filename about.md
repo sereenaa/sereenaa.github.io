@@ -5,7 +5,7 @@ permalink: /about/
 site-avatar: /images/404.jpg
 ---
 
-I am a final year student at the University of New South Wales, studying a bachelor of Data Science and Decisions. Currently a data science intern at TAL Australia, I will soon be moving into a graduate program at IAG. 
+I am a Data Graduate at IAG, with a bachelor of Data Science and Decisions at the University of New South Wales. 
 
 ## My Website 
 
